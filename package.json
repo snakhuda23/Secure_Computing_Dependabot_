@@ -1,0 +1,9 @@
+{
+  "name": "secure-computing-dependabot",
+  "version": "1.0.0",
+  "description": "An illustrative repository for Secure Computing, highlighting software supply chain protection and GitHub Dependabot integration.",
+  "dependencies": {
+    "lodash": "4.17.20",
+    "express": "4.17.1"
+  }
+}
